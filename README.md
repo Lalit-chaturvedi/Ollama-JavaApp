@@ -73,14 +73,6 @@ or have a look at the [spring-boot-ollama-sample](spring-boot-ollama-sample) pro
 
 ## Useful Resources
 
-### API DOC
-
-https://github.com/jmorganca/ollama/blob/main/docs/api.md
-
-### Linux install
-
-https://github.com/jmorganca/ollama/blob/main/docs/linux.md
-
 ```bash
 $ curl https://ollama.ai/install.sh | sh
 >>> Installing ollama to /usr/local/bin...
